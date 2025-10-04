@@ -1,15 +1,19 @@
 {
+  "dependencies": {
+    "@nuxt/content": "latest",
+    "@nuxt/eslint": "1.9.0",
+    "eslint": "^9.37.0",
+    "nuxt": "^4.1.1"
+  },
   "name": "nuxt-content-starter",
   "private": true,
-  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "preview": "nuxt preview"
   },
-  "dependencies": {
-    "@nuxt/content": "latest",
-    "nuxt": "^4.1.1"
-  }
+  "type": "module"
 }
