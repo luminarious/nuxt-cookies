@@ -8,7 +8,7 @@
     "@oxc-transform/binding-wasm32-wasi": "0.87.0",
     "@unhead/vue": "^2.0.17",
     "eslint": "^9.37.0",
-    "nuxt": "^4.1.1",
+    "nuxt": "^4.1.1"
   },
   "name": "nuxt-content-starter",
   "private": true,
