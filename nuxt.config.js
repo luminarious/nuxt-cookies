@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-	modules: ['@nuxt/content', '@nuxt/eslint'],
+	modules: ['@nuxt/content', '@nuxt/eslint', '@nuxt/scripts'],
 	devtools: { enabled: true },
 	future: {
 		compatibilityVersion: 4,

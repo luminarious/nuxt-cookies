@@ -2,6 +2,8 @@
   "dependencies": {
     "@nuxt/content": "latest",
     "@nuxt/eslint": "1.9.0",
+    "@nuxt/scripts": "0.12.1",
+    "@unhead/vue": "^2.0.17",
     "eslint": "^9.37.0",
     "nuxt": "^4.1.1"
   },
