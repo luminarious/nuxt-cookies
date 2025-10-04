@@ -8,4 +8,12 @@ export default defineNuxtConfig({
 	compatibilityDate: '2024-04-03',
   content: {
   },
+	scripts: {
+		registry: {
+			matomoAnalytics: {
+				matomoUrl: 'https://tehikhardidesign.matomo.cloud/',
+				siteId: 1,
+			},
+		},
+	},
 })
