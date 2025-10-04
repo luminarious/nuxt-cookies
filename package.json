@@ -9,7 +9,6 @@
     "@unhead/vue": "^2.0.17",
     "eslint": "^9.37.0",
     "nuxt": "^4.1.1",
-    "sqlite3": "^5.1.7"
   },
   "name": "nuxt-content-starter",
   "private": true,
